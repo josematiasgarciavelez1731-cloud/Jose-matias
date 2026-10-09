@@ -1,0 +1,6 @@
+{
+  "appId": "com.mimo.tamagotchi",
+  "appName": "Mimo",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
